@@ -34,3 +34,17 @@
 {"level":"info","time":"2026-05-14T00:09:43.952+0800","caller":"runtime/proc.go:290","msg":"数据库连接成功"}
 {"level":"info","time":"2026-05-14T00:09:43.959+0800","caller":"runtime/proc.go:290","msg":"Redis 连接成功"}
 {"level":"info","time":"2026-05-14T00:09:43.959+0800","caller":"runtime/proc.go:290","msg":"HTTP 服务启动,监听地址: :8080"}
+{"level":"info","time":"2026-05-16T16:53:42.375+0800","caller":"runtime/proc.go:290","msg":"日志初始化完成"}
+{"level":"info","time":"2026-05-16T16:53:42.395+0800","caller":"runtime/proc.go:290","msg":"数据库连接成功"}
+{"level":"info","time":"2026-05-16T16:53:42.807+0800","caller":"runtime/proc.go:290","msg":"数据库迁移成功,6 张表已就绪"}
+{"level":"info","time":"2026-05-16T16:55:01.668+0800","caller":"runtime/proc.go:290","msg":"日志初始化完成"}
+{"level":"info","time":"2026-05-16T16:55:01.684+0800","caller":"runtime/proc.go:290","msg":"数据库连接成功"}
+{"level":"info","time":"2026-05-16T16:55:01.731+0800","caller":"runtime/proc.go:290","msg":"数据库迁移成功,6 张表已就绪"}
+{"level":"info","time":"2026-05-16T17:01:01.132+0800","caller":"runtime/proc.go:290","msg":"日志初始化完成"}
+{"level":"info","time":"2026-05-16T17:01:01.148+0800","caller":"runtime/proc.go:290","msg":"数据库连接成功"}
+{"level":"info","time":"2026-05-16T17:01:01.190+0800","caller":"runtime/proc.go:290","msg":"数据库迁移成功,6 张表已就绪"}
+{"level":"info","time":"2026-05-16T17:01:11.356+0800","caller":"runtime/proc.go:290","msg":"日志初始化完成"}
+{"level":"info","time":"2026-05-16T17:01:11.374+0800","caller":"runtime/proc.go:290","msg":"数据库连接成功"}
+{"level":"info","time":"2026-05-16T17:01:11.417+0800","caller":"runtime/proc.go:290","msg":"数据库迁移成功,6 张表已就绪"}
+{"level":"info","time":"2026-05-16T17:01:11.425+0800","caller":"runtime/proc.go:290","msg":"Redis 连接成功"}
+{"level":"info","time":"2026-05-16T17:01:11.425+0800","caller":"runtime/proc.go:290","msg":"HTTP 服务启动,监听地址: :8080"}
